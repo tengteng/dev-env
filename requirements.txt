@@ -1,0 +1,7 @@
+gym==0.14.0
+pyodps==0.8.3
+tensorpack==0.9.8
+redis==3.3.8
+elasticsearch==7.0.4
+mxnet==1.5.0
+vnpy==1.9.2
